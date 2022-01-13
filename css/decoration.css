@@ -31,7 +31,7 @@ body {
 
 .hero {
   height: 400px;
-  background-image: url(/KAL/kallogo.jpg);
+  background-image: url(/img/kallogo.jpg);
   background-position: 0 -65px;
   background-size: cover;
   border-top: 5px solid cornflowerblue;
